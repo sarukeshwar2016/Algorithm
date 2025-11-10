@@ -46,3 +46,5 @@ int main() {
     printf("the total profit:%f",tp);
     return 0;
 }
+
+// Optimization required for scale
