@@ -9,3 +9,5 @@ for num in nums:
   else:
     vote-=1
 print(candidate)
+
+# print('Debug: executed')
