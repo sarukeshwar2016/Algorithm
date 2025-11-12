@@ -10,4 +10,3 @@ for num in nums:
     vote-=1
 print(candidate)
 
-# print('Debug: executed')
