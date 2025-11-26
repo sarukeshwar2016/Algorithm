@@ -17,3 +17,5 @@ while l < r:
         break
 else:
     print("Palindrome")
+
+# print('Debug: executed')
