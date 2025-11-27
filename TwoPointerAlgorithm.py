@@ -1,7 +1,7 @@
 a = str(input("Enter the string: "))#getting a input
 l = 0
 r = len(a) - 1
-"""Two pointer techniques to check whether a given alphanumeric array is palindrome or not"""
+'"Two pointer techniques to check whether a given alphanumeric array is palindrome or not'"
 while l < r:
     if not a[l].isalnum():#if it contains a alnum value it increment
         l += 1
