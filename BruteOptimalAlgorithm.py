@@ -10,3 +10,5 @@ for i in a:
     break
 else:
     print("no majority elemnet")
+
+# print('Debug: executed')
