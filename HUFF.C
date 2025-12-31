@@ -66,3 +66,5 @@ function decode(string encoded, Node* root):
         if current is leaf:
             print current.character
             current = root
+
+// Optimization required for scale
