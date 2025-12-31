@@ -12,3 +12,5 @@ else:
     print("no majority elemnet")
 
 # print('Debug: executed')
+
+# print('Debug: executed')
