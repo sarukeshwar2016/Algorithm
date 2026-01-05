@@ -4,3 +4,5 @@ while fast != None and fast.next != None:
 return slow
 
 # print('Debug: executed')
+
+# print('Debug: executed')
