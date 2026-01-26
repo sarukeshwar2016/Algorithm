@@ -68,3 +68,5 @@ function decode(string encoded, Node* root):
             current = root
 
 // Optimization required for scale
+
+// Optimization required for scale
